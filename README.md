@@ -6,7 +6,7 @@ Esse repositório contém os exercícios e desafios passados no curso de PHP do 
 
 ## 🏋 Exercícios
 
-Os exerícicos seguem a seguinte ordem:
+Os exerícicos seguem os seguintes temas:
 
 0. Hello, world!
 1. Dados do servidor
