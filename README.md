@@ -11,7 +11,10 @@ Os exerícicos seguem os seguintes temas:
 0. Hello, world!
 1. Dados do servidor
 2. Exemplo de uso de PHP
-3. Variáveis e Constantes
+    - 2b. Variáveis e Constantes
+3. Tipos Primitivos
+4. Strings
+    - 4b. Aprofundamento Strings
 
 ## 📁 Estrutura de Pastas
 
